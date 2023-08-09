@@ -1,5 +1,11 @@
 class XdlController < ApplicationController
- def index
+ def home
   
+ end
+ def xobo
+  
+ end
+ def rides
+
  end
 end
